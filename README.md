@@ -1,23 +1,19 @@
 UK-National-Information-infrastructure
 ======================================
 
-Some playing around with the UK government National Information Infrastructure
-
-This resource is thoughts and activity as a result of going on the Open Data Institute [Open Data in Practice course](http://theodi.org/courses/open-data-practice). 
-
-It pulls together some resources from the UK government central portal for data - data.gov.uk.
-
 # Objective
 
 ## Introduction
-We want to make the national information infrastructure 5* according to the [open data deployment star rating](http://data.gov.uk/blog/5-stars-rating-algorithm) as defined by Sir Tim Berners-Lee.
+We want the UK Government National Information Infrastructure (NII) to qualify for '5 stars' according to the [open data deployment star rating](http://data.gov.uk/blog/5-stars-rating-algorithm) as defined by Sir Tim Berners-Lee.
 
-We want to take the national information infrastructure through the [Open Data Institute](http://www.theodi.org) [Open Data Certificate](https://certificates.theodi.org/).
+In addition to that, we want a relevant number of NII datasets to qualify for the Open Data Institute (ODI) [Open Data Certificates](https://certificates.theodi.org/).
 
-We started with the [NII CSV](http://data.gov.uk/dataset/national-information-infrastructure) which can be found on data.gov.uk(http://www.data.gov.uk) and a copy of which is here.
+We started with the [NII CSV](http://data.gov.uk/dataset/national-information-infrastructure) which can be found on [data.gov.uk](http://www.data.gov.uk) and a copy of which is [available here](https://github.com/matti-brown/UK-National-Information-infrastructure/blob/master/20131031_NII_DGU_I1.csv).
 
 ## This project
-This project is a proof of concept. Its objective is to build a software capable of automatically enhancing [a .csv file](https://github.com/matti-brown/UK-National-Information-infrastructure/blob/master/20131031_NII_DGU_I1.csv) produced by the data.gov.uk team onto a better structured format (JSON/RDF). 
+This project is a proof of concept developed at the ODI in the context of the [Open Data in Practice course](http://theodi.org/courses/open-data-practice). 
+
+Its objective is to build a software capable of automatically enhancing the NII CSV onto a better structured format (JSON/RDF). 
 
 The new file should be suitable to: a) qualify for an open data deployment rating beyond 3 stars and, eventually, b) qualify for an open data certificate at least at "pilot" level.
 
