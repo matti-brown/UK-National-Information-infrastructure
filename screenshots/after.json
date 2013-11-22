@@ -1,0 +1,33 @@
+{ "Publisher": {
+	"name": "Ordnance Survey",
+	"url": "http://data.gov.uk/publisher/ordnance-survey"
+  },
+  "Dataset Name": "OS 1:10 000 Scale Black and White Raster",
+  "Category": "Energy and the Environment",
+  "Type": "Location","Link":"http://data.gov.uk/dataset/os-1-10-000-scale-black-and-white-raster",
+  "published": "data.gov.uk",
+  "Added to data.gov.uk": "03/06/2011",
+  "Modified on data.gov.uk": "26/02/2013",
+  "Harvest URL": "http://www.ordnancesurvey.co.uk/oswebsite/xml/products",
+  "Harvest Date": "02/01/2013 14:10",
+  "Harvest GUID": "2792c32b-bd9c-456e-ae3c-e452d5b5f3c0",
+  "Extent": "Latitude: 60.86&deg; to 49.86&deg;   Longitude: -8.45&deg; to 1.78&deg;",
+  "Spatial reference system": "urn:ogc:def:crs:EPSG:27700",
+  "Metadata date": "15/11/2012",
+  "Dataset reference date": "1/1/2000 (creation)",
+  "Frequency of update": "annually",
+  "Responsible party": "Ordnance Survey, Great Britain (publisher)",
+  "Metadata language": "English",
+  "Gemini2 resource type": "dataset",
+  "Harvest source reference": "http://www.ordnancesurvey.co.uk/oswebsite/xml/products/10kBlackandWhiteRaster.xml",
+  "Temporal coverage": "No value",
+  "Date added computed": "No value",
+  "Date updated computed": "No value",
+  "Access constraints": "No value",
+  "Coupled Datasets": [
+  	{ "Dataset Name": "Ordnance Survey Atom feed (INSPIRE Download service)",
+  	  "Link": "http://data.gov.uk/dataset/ordnance-survey-atom-feed-inspire-download-service" },
+  	{ "Dataset Name":"OS OnDemand",
+  	  "Link": "http://data.gov.uk/dataset/os-ondemand1" }
+  ]
+}
