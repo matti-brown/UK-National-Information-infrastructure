@@ -19,7 +19,7 @@ We started with the [NII CSV](http://data.gov.uk/dataset/national-information-in
 ## This project
 This project is a proof of concept. Its objective is to build a software capable of automatically enhancing [a .csv file](https://github.com/matti-brown/UK-National-Information-infrastructure/blob/master/20131031_NII_DGU_I1.csv) produced by the data.gov.uk team onto a better structured format (JSON/RDF). 
 
-The new file should be suitable to: a) qualify for an open data deployment rating beyond 3 stars and, eventually, b) qualify for an open data certificate.
+The new file should be suitable to: a) qualify for an open data deployment rating beyond 3 stars and, eventually, b) qualify for an open data certificate at least at "pilot" level.
 
 # Usage
 This software comes as a combination of a [Node.js](http://nodejs.org/):
@@ -32,7 +32,7 @@ Only JSON is supported for the time being.
 
 To use the example command-line application you just need to do:
 
-    node example.js --in <input csv file> --out <output JSON file>
+    $ node example.js --in <input csv file> --out <output JSON file>
 
 # Sources
 Together with the aforementioned .csv file, two additional sources are merged into the data of the file produced by the library:
