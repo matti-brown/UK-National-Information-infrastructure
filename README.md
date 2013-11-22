@@ -6,14 +6,14 @@ UK-National-Information-infrastructure
 ## Introduction
 We want the UK Government National Information Infrastructure (NII) to qualify for '5 stars' according to the [open data deployment star rating](http://data.gov.uk/blog/5-stars-rating-algorithm) as defined by Sir Tim Berners-Lee.
 
-In addition to that, we want a relevant number of NII datasets to qualify for the Open Data Institute (ODI) [Open Data Certificates](https://certificates.theodi.org/).
+In addition to that, we want a relevant number of NII datasets to qualify for Open Data Institute (ODI) [Open Data Certificates](https://certificates.theodi.org/).
 
 We started with the [NII CSV](http://data.gov.uk/dataset/national-information-infrastructure) which can be found on [data.gov.uk](http://www.data.gov.uk) and a copy of which is [available here](https://github.com/matti-brown/UK-National-Information-infrastructure/blob/master/20131031_NII_DGU_I1.csv).
 
 ## This project
-This project is a proof of concept developed at the ODI in the context of the [Open Data in Practice course](http://theodi.org/courses/open-data-practice). 
+This project is a proof of concept developed at the ODI in the context of the [Open Data in Practice course](http://theodi.org/courses/open-data-practice) (18 - 22 November 2013). 
 
-Its objective is to build a software capable of automatically enhancing the NII CSV onto a better structured format (JSON/RDF). 
+Its objective is to build a software capable of automatically enhancing the NII CSV onto a better structured format (JSON, eventually moving to RDF in the future). 
 
 The new file should be suitable to: a) qualify for an open data deployment rating beyond 3 stars and, eventually, b) qualify for an open data certificate at least at "pilot" level.
 
@@ -23,8 +23,6 @@ This software comes as a combination of a [Node.js](http://nodejs.org/):
 - example command-line application
 
 The key functionality is placed in a library so that other software clients could be developed in the future, e.g. the same service could be provided through an intranet website accessible to government agencies. 
-
-Only JSON is supported for the time being.
 
 To use the example command-line application you just need to do:
 
@@ -42,15 +40,13 @@ Note that if any of the datasets names as a publisher a body that is not listed 
 	Warning: found publisher not listed at http://data.gov.uk/publisher: "Victoria & Albert Museum"
 	Warning: found publisher not listed at http://data.gov.uk/publisher: "HMG"
 	Warning: found publisher not listed at http://data.gov.uk/publisher: "HMG"
-	Warning: found publisher not listed at http://data.gov.uk/publisher: "HMG"
-	Warning: found publisher not listed at http://data.gov.uk/publisher: "HMG"
 	Warning: found publisher not listed at http://data.gov.uk/publisher: "High Speed 2"
 	Warning: found publisher not listed at http://data.gov.uk/publisher: "National Institute for Health and Clinical Excellence (NICE)"
 	Warning: found publisher not listed at http://data.gov.uk/publisher: "National Institute for Health and Clinical Excellence (NICE)"
 	Done.
 	$ 
 
-In that case, the input .csv must be amended accordingly.
+In that case, the input NII CSV must be amended accordingly.
 
 # License
 Copyright (c) 2013 Gianfranco Cecconi and Matthew Brown
