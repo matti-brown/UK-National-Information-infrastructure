@@ -3,14 +3,14 @@ UK-National-Information-infrastructure
 
 Some playing around with the UK government National Information Infrastructure
 
-This resource is thoughts and activity as a result of going on the Open Data Institute Open Data in Practice course. 
+This resource is thoughts and activity as a result of going on the Open Data Institute [Open Data in Practice course](http://theodi.org/courses/open-data-practice). 
 
 It pulls together some resources from the UK government central portal for data - data.gov.uk.
 
 # Objective
 
 ## Introduction
-We want to make the national information infrastructure 5* according to the [open data deployment star rating](http://5stardata.info/) as defined by Sir Tim Berners-Lee.
+We want to make the national information infrastructure 5* according to the [open data deployment star rating](http://data.gov.uk/blog/5-stars-rating-algorithm) as defined by Sir Tim Berners-Lee.
 
 We want to take the national information infrastructure through the [Open Data Institute](http://www.theodi.org) [Open Data Certificate](https://certificates.theodi.org/).
 
