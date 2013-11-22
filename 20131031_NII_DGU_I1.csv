@@ -1,0 +1,325 @@
+Publisher,Dataset Name,Link to DGU record if not DGU record then external link,Facet 1,Facet 2
+HM Passport Office,Places of worship,http://data.gov.uk/dataset/places-of-worship,Government Accountability and Democracy,Location
+HM Passport Office,Places approved for civil marriage and partnership,http://data.gov.uk/dataset/approved-premises-civil-marriages-and-partnerships-and-civil-partnerships-in-england-and-wales,Government Accountability and Democracy,Location
+The Disclosure and Barring Service,DBS list of current Registered and Umbrella Bodies,http://data.gov.uk/dataset/dbs-list-of-current-registered-and-umbrella-bodies,Government Accountability and Democracy,Location
+Cabinet Office,Central Government Property and Land including Welsh Ministers Estate,http://data.gov.uk/dataset/epims,Government Accountability and Democracy,Location
+Department for International Development,Geo-coded development Projects,http://www.data.gov.uk/dataset/info-dfid-aid-projects,Global Development,Location
+Home Office,Police station locations ,http://data.gov.uk/dataset/police-station-locations,Crime and Justice,Location
+Ministry of Justice,Court locations,http://data.gov.uk/dataset/court-locations,Crime and Justice,Location
+Ministry of Justice,Prison locations,http://data.gov.uk/dataset/prison-locations,Crime and Justice,Location
+Home Office,Police (boundaries) (Home Office) ,http://data.gov.uk/dataset/police-force-boundaries-england-and-wales,Crime and Justice,Location
+Ministry of Justice,Types of court,http://data.gov.uk/dataset/types-of-court,Crime and Justice,Location
+Ministry of Justice,Information about judiciary,http://data.gov.uk/dataset/information-about-judiciary,Crime and Justice,Location
+Ordnance Survey,Points of Interest,http://data.gov.uk/dataset/points-of-interest,Companies and Business Development,Location
+"Department for Business, Innovation and Skills",Business Population Estimates for the UK and Regions (BIS),http://data.gov.uk/dataset/business_population_estimates_for_the_uk_and_regions,Companies and Business Development,Location
+Her Majesty's Revenue and Customs,Value Added Tax,http://data.gov.uk/dataset/value-added-tax-vat--live-mainframe-data,Companies and Business Development,Location
+Department for Transport,National Public Access Transport Nodes (NaPTAN),http://www.data.gov.uk/dataset/naptan,Transport and Infrastructure,Location
+Department for Transport,"Network Rail - railway network Inspire data 
+",http://data.gov.uk/dataset/railway-network-inspire,Transport and Infrastructure,Location
+Highways Agency,"Highways Agency - Roads network Inspire data 
+",http://data.gov.uk/dataset/ha-road-network-inspire,Transport and Infrastructure,Location
+Department for Transport,Cycle Routes,http://www.data.gov.uk/dataset/cycle-routes,Transport and Infrastructure,Location
+Department for Transport,Car parks,http://data.gov.uk/dataset/car-parks,Transport and Infrastructure,Location
+Highways Agency,Live Traffic Information from the Highways Agency Road Network,http://data.gov.uk/dataset/live-traffic-information-from-the-highways-agency-road-network,Transport and Infrastructure,Location
+Department for Transport,National Public Transport Gazetteer (NPTG),http://data.gov.uk/dataset/nptg,Transport and Infrastructure,Location
+Maritime and Coastguard Agency,Hydrographic Data ,http://data.gov.uk/dataset/hydrographic-data,Transport and Infrastructure,Location
+British Geological Survey,UK Earthquake Seismogram Data,http://data.gov.uk/dataset/uk-earthquake-seismogram-data,Science and Research,Location
+British Geological Survey,Water Well Archive ,http://data.gov.uk/dataset/water-well-archive,Energy and the Environment,Location
+British Geological Survey,GeoIndex Geological Indicators of Flooding ,http://data.gov.uk/dataset/geoindex-geological-indicators-of-flooding,Energy and the Environment,Location
+British Geological Survey,World Seismicity Database,http://data.gov.uk/dataset/world-seismicity-database,Energy and the Environment,Location
+British Geological Survey,Waste Disposal Site Records) 1973,http://data.gov.uk/dataset/waste-disposal-site-records,Energy and the Environment,Location
+Ordnance Survey,Height Content Store (Terrain 2/5/50),http://data.gov.uk/dataset/height-content-store-terrain-2-5-50,Energy and the Environment,Location
+Land Registry,Title Information,http://data.gov.uk/dataset/title-information,Energy and the Environment,Location
+Ordnance Survey,OS MasterMap® Topography Layer,http://data.gov.uk/dataset/os-mastermap-topography-layer,Energy and the Environment,Location
+Ordnance Survey,"Networks: Paths, Water, Rail ",http://data.gov.uk/dataset/networks-paths-water-rail,Energy and the Environment,Location
+Ordnance Survey,Functional sites,http://data.gov.uk/dataset/functional-sites,Energy and the Environment,Location
+Ordnance Survey,Codepoint with polygons,http://data.gov.uk/dataset/code-point-with-polygons,Energy and the Environment,Location
+Land Registry,HM Land Registry INSPIRE Index Polygons,http://www.data.gov.uk/dataset/hm-land-registry-inspire-index-polygons,Energy and the Environment,Location
+Land Registry,Index of Proprietors Names ,http://data.gov.uk/dataset/index-of-proprietors-names,Energy and the Environment,Location
+Ordnance Survey,Boundary line,http://data.gov.uk/dataset/boundary-line,Energy and the Environment,Location
+Land Registry,Land Registry Property Gazetteer,http://data.gov.uk/dataset/land-registry-property-gazetteer,Energy and the Environment,Location
+Land Registry,Land Registry Monthly Price Paid Data current,http://data.gov.uk/dataset/land-registry-monthly-price-paid-data,Energy and the Environment,Location
+Land Registry,Land Registry Monthly Price Paid Data 1995-2012 ,http://data.gov.uk/dataset/archived-price-paid-information--residential-property-1995-2012,Energy and the Environment,Location
+Ordnance Survey,OS Mastermap® Address Layer (OS),http://data.gov.uk/dataset/os-mastermap-address-layer,Energy and the Environment,Location
+Land Registry,HM Land Registry INSPIRE Index Polygons,http://data.gov.uk/dataset/hm-land-registry-inspire-index-polygons,Energy and the Environment,Location
+Department for Communities and Local Government,Area of designated Green Belt by local planning authority (DCLG) ,http://data.gov.uk/dataset/area-of-designated-greenbelt-by-local-planning-authority,Energy and the Environment,Location
+Department for Communities and Local Government,Planning – national land use database of previously - developed land ,http://data.gov.uk/dataset/england-planning-national-land-use-database-of-previously-developed-land,Energy and the Environment,Location
+Natural England,Sites of Special Scientific Interest (SSI) ,http://www.data.gov.uk/dataset/sites-of-special-scientific-interest,Energy and the Environment,Location
+"Department for Environment, Food and Rural Affairs",Air Quality Management Areas ,http://www.data.gov.uk/dataset/air_quality_management_areas,Energy and the Environment,Location
+"Department for Environment, Food and Rural Affairs",National Parks ,http://www.data.gov.uk/dataset/national-parks,Energy and the Environment,Location
+"Department for Environment, Food and Rural Affairs",National Nature Reserve ,http://www.data.gov.uk/dataset/national-nature-reserve,Energy and the Environment,Location
+Forestry Commission,National Forest Estate Sub-compartment Database ,http://www.data.gov.uk/dataset/national-forest-estate-subcompartment-database,Energy and the Environment,Location
+Environment Agency,Flood Map – National Defences ,http://www.data.gov.uk/dataset/flood-map-national-defences,Energy and the Environment,Location
+Environment Agency,Administrative Boundaries - Water Management Areas (Environment Agency),http://www.data.gov.uk/dataset/administrative-boundaries-water-management-areas,Energy and the Environment,Location
+Rural Payments Agency,Rural Land Register,http://www.data.gov.uk/dataset/rural-land-register,Energy and the Environment,Location
+Environment Agency,Flood Warning Areas,http://www.data.gov.uk/dataset/flood-alert-areas-afa055,Energy and the Environment,Location
+Department of Energy and Climate Change,National Energy Efficiency Data Framework,http://data.gov.uk/dataset/national-energy-efficiency-data-framework,Energy and the Environment,Location
+"Department for Environment, Food and Rural Affairs",The United Kingdom fishing Vessel List ,http://data.gov.uk/data/search?q=vessels&publisher=marine-management-organisation&unpublished=true ,Energy and the Environment,Location
+Marine Management Organisation,Marine Licensing Consents (Marine Management Organisation),http://data.gov.uk/data/search?parent_publishers=department-for-environment-food-and-rural-affairs&unpublished=true&q=Marine+Management+Organisation+Legacy+Marine+Licences+%28Point%29,Energy and the Environment,Location
+Marine Management Organisation,Fishing Activity Data (effort and landings),http://data.gov.uk/data/search?parent_publishers=department-for-environment-food-and-rural-affairs&unpublished=true&q=Marine+Management+Organisation+Legacy+Marine+Licences+%28Point%29 ,Energy and the Environment,Location
+Ordnance Survey,1:50 000 Scale Gazetteer,http://data.gov.uk/dataset/1-50-000-scale-gazetteer,Energy and the Environment,Location
+Ordnance Survey,AddressBase,http://data.gov.uk/dataset/addressbase,Energy and the Environment,Location
+Ordnance Survey,AddressBase Plus,http://data.gov.uk/dataset/addressbase-plus,Energy and the Environment,Location
+Ordnance Survey,AddressBase Premium,http://data.gov.uk/dataset/addressbase-premium,Energy and the Environment,Location
+Ordnance Survey,Boundary-Line,http://data.gov.uk/dataset/boundary-line,Energy and the Environment,Location
+Ordnance Survey,Code-Point®,http://data.gov.uk/dataset/code-point,Energy and the Environment,Location
+Ordnance Survey,Code-Point® Open,http://data.gov.uk/dataset/code-point-open,Energy and the Environment,Location
+Ordnance Survey,Code-Point® with polygons,http://data.gov.uk/dataset/code-point-with-polygons,Energy and the Environment,Location
+Ordnance Survey,Land-Form PANORAMA® Contours,http://data.gov.uk/dataset/land-form-panorama-contours,Energy and the Environment,Location
+Ordnance Survey,Land-Form PANORAMA® DTM,http://data.gov.uk/dataset/land-form-panorama-dtm,Energy and the Environment,Location
+Ordnance Survey,Land-Form PROFILE® Contours,http://data.gov.uk/dataset/land-form-profile-contours,Energy and the Environment,Location
+Ordnance Survey,Land-Form PROFILE® DTM,http://data.gov.uk/dataset/land-form-profile-dtm,Energy and the Environment,Location
+Ordnance Survey,Meridian 2,http://data.gov.uk/dataset/meridian-2,Energy and the Environment,Location
+Ordnance Survey,Ordnance Survey Atom feed (INSPIRE Download service),http://data.gov.uk/dataset/ordnance-survey-atom-feed-inspire-download-service,Energy and the Environment,Location
+Ordnance Survey,OS 1:10 000 Scale Black and White Raster,http://data.gov.uk/dataset/os-1-10-000-scale-black-and-white-raster,Energy and the Environment,Location
+Ordnance Survey,OS 1:10 000 Scale Colour Raster,http://data.gov.uk/dataset/os-1-10-000-scale-colour-raster,Energy and the Environment,Location
+Ordnance Survey,OS 1:25 000 Scale Colour Raster,http://data.gov.uk/dataset/os-1-25-000-scale-colour-raster,Energy and the Environment,Location
+Ordnance Survey,OS 1:50 000 Scale Colour Raster,http://data.gov.uk/dataset/os-1-50-000-scale-colour-raster,Energy and the Environment,Location
+Ordnance Survey,OS Locator,http://data.gov.uk/dataset/os-locator1,Energy and the Environment,Location
+Ordnance Survey,OS Mastermap® Address Layer,http://data.gov.uk/dataset/os-mastermap-address-layer,Energy and the Environment,Location
+Ordnance Survey,OS MasterMap Address Layer 2,http://data.gov.uk/dataset/os-mastermap-address-layer-2,Energy and the Environment,Location
+Ordnance Survey,OS MasterMap® Imagery Layer,http://data.gov.uk/dataset/os-mastermap-imagery-layer,Energy and the Environment,Location
+Ordnance Survey,OS MasterMap® Integrated Transport Network Layer,http://data.gov.uk/dataset/os-mastermap-integrated-transport-network-layer1,Energy and the Environment,Location
+Ordnance Survey,OS MasterMap Sites Layer,http://data.gov.uk/dataset/os-mastermap-sites-layer,Energy and the Environment,Location
+Ordnance Survey,OS MasterMap® Topography Layer,http://data.gov.uk/dataset/os-mastermap-topography-layer,Energy and the Environment,Location
+Ordnance Survey,OS OnDemand,http://data.gov.uk/dataset/os-ondemand1,Energy and the Environment,Location
+Ordnance Survey,OS OpenData 1:250 000 Scale Colour Raster,http://data.gov.uk/dataset/os-opendata-1-250-000-scale-colour-raster,Energy and the Environment,Location
+Ordnance Survey,OS OpenData OS Street View®,http://data.gov.uk/dataset/os-opendata-os-street-view,Energy and the Environment,Location
+Ordnance Survey,OS VectorMap District,http://data.gov.uk/dataset/os-vectormap-district1,Energy and the Environment,Location
+Ordnance Survey,OS VectorMap Local,http://data.gov.uk/dataset/os-vectormap-local-colour-raster,Energy and the Environment,Location
+Ordnance Survey,Strategi®,http://data.gov.uk/dataset/strategi,Energy and the Environment,Location
+Ordnance Survey,UK Location Catalogue Publishing Service,http://data.gov.uk/dataset/uk-location-catalogue-publishing-service,Energy and the Environment,Location
+Environment Agency,"Water Quality of Effluents, Rivers, Lakes and Other Controlled Waters",http://data.gov.uk/dataset/water-quality-of-effluents-rivers-lakes-and-other-controlled-waters,Energy and the Environment,Location
+Natural England,Priority Habitats Inventory,http://data.gov.uk/dataset/priority-habitats-inventory,Energy and the Environment,Location
+Forestry Commission,National National Forest Inventory Inventory – 2012,http://data.gov.uk/dataset/forestry-commission-gb-national-forest-inventory-woodland,Energy and the Environment,Location
+NHS England,"GP/hospital/dentists/Clinical Commissioning Group reference data (location, size etc)",http://www.nhs.uk/aboutnhschoices/contactus/pages/freedom-of-information.aspx,Health and Social Care,Location
+NHS England,"GP/hospital/dentists/Clinical Commissioning Group reference data API (location, size etc)",http://www.nhs.uk/aboutnhschoices/professionals/syndication/Pages/Webservices.aspx,Health and Social Care,Location
+Gambling Commission,List of Licensed Premises,http://www.data.gov.uk/dataset/licensed-gambling-premises,Society and Culture,Location
+Gambling Commission,Operator License Register,http://www.data.gov.uk/dataset/operator-licence-register,Society and Culture,Location
+English Heritage,Protected Sites Service ,http://www.data.gov.uk/dataset/english-heritage-protected-sites-service,Society and Culture,Location
+English Heritage,Blue Plaques (English Heritage) ,http://www.data.gov.uk/dataset/blue-plaques,Society and Culture,Location
+Tate,Collections,http://www.data.gov.uk/dataset/collections-database,Society and Culture,Location
+The British Museum,Collections Online ,http://www.data.gov.uk/dataset/collections-online,Society and Culture,Location
+The British Museum,Treasure Data ,http://www.data.gov.uk/dataset/treasure-data,Society and Culture,Location
+Victoria & Albert Museum,Collections,http://data.gov.uk/dataset/search-the-collections,Society and Culture,
+Natural History Museum,Collections,http://data.gov.uk/dataset/collections,Society and Culture,Location
+"Department for Culture, Media and Sport",Government Art Collection,http://www.data.gov.uk/dataset/government-art-collection,Society and Culture,Location
+Sport England,Market Segmentation,http://www.data.gov.uk/dataset/market-segmentation,Society and Culture,Location
+Sport England,Active Places  (Sport England),http://data.gov.uk/dataset/active-places,Society and Culture,Location
+Sport England,Spogo,http://data.gov.uk/dataset/spogo,Society and Culture,Location
+Foreign and Commonwealth Office,UK Foreign Post locations , http://data.gov.uk/dataset/uk-foreign-post-locations,"Other e.g. Defence, International Relations",Location
+Ministry of Defence,Estates Information,http://www.data.gov.uk/dataset/estates-information,"Other e.g. Defence, International Relations",Location
+Ministry of Defence,Byelaws,http://www.data.gov.uk/dataset/byelaws,"Other e.g. Defence, International Relations",Operational
+Ministry of Defence,Wrecks database,http://www.data.gov.uk/dataset/wrecks-database,"Other e.g. Defence, International Relations",Location
+Ministry of Defence,UK international boundaries,http://data.gov.uk/dataset/uk-international-boundaries,"Other e.g. Defence, International Relations",Location
+Ministry of Defence,UK continental shelf ,http://data.gov.uk/dataset/uk-continental-shelf,"Other e.g. Defence, International Relations",Location
+Ministry of Justice,Freedom of Information Act 2000: statistics on implementation in central government ,http://data.gov.uk/dataset/freedom_of_information_act_2000-statistics_on_implementation_in_central_government,Government Accountability and Democracy,Performance and Delivery
+Her Majesty's Treasury,Public Spending Statistics,http://data.gov.uk/dataset/public_spending_statistics,Government Accountability and Democracy,Performance and Delivery
+HMG,Departmental Energy Consumption (all depts.),http://data.gov.uk/data/search?q=Real+time+energy+use,Government Accountability and Democracy,Performance and Delivery
+Her Majesty's Treasury,Public Sector Finances ,http://data.gov.uk/dataset/public_sector_finances,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,Government Transactional Services,http://data.gov.uk/dataset/government-transactional-services,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,Business Plans for Central Government Departments,http://data.gov.uk/dataset/business-plans-for-central-government-departments,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,Government construction performance data,http://data.gov.uk/dataset/govt-construction-strategy-performance-data,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,Government’s major projects data ,http://data.gov.uk/dataset/government-s-major-projects-data,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,Commercial and market intelligence of key suppliers to government,http://data.gov.uk/dataset/commercial-and-market-intelligence-of-key-suppliers-to-government,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,Mutuals supported by the mutuals support programme ,http://data.gov.uk/dataset/mutuals-supported-by-the-mutuals-support-programme-august-2012,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,Govt construction strategy strategic supplier data ,http://data.gov.uk/dataset/govt-construction-strategy-strategic-supplier-data,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,GPS Strategic Supplier Key Performance Information  ,http://data.gov.uk/dataset/gps-strategic-supplier-key-performance-information,Government Accountability and Democracy,Performance and Delivery
+Cabinet Office,The Single Data List for central government departments (DCLG) ,http://data.gov.uk/dataset/single-data-list-for-central-government-departments,Government Accountability and Democracy,Performance and Delivery
+Department for International Development,Results of aid projects (DfID),http://www.data.gov.uk/dataset/info-dfid-aid-projects,Global Development,Performance and Delivery
+Home Office,Street level crimes (Home Office) ,http://data.gov.uk/dataset/england-national-crime-mapping,Crime and Justice,Performance and Delivery
+Crown Prosecution Service,Crown Prosecution Service Case Outcomes by Principal Offence Category Data ,http://www.data.gov.uk/dataset/crown-prosecution-service-case-outcomes-by-principal-offence-category-data,Crime and Justice,Performance and Delivery
+Office for National Statistics,Crime statistics ,http://data.gov.uk/dataset/crime_statistics,Crime and Justice,Performance and Delivery
+Ministry of Justice,Criminal justice statistics quarterly ,http://data.gov.uk/dataset/criminal_justice_system_statistics_quarterly,Crime and Justice,Performance and Delivery
+Ministry of Justice,Re-offending statistics quarterly,http://data.gov.uk/dataset/re-offending_statistics_quarterly,Crime and Justice,Performance and Delivery
+Ministry of Justice,"Statistics on Deaths Reported to Coroners, England and Wales",http://data.gov.uk/dataset/statistics_on_deaths_reported_to_coroners_england_and_wales,Crime and Justice,Performance and Delivery
+Ministry of Justice,Prison population and accommodation weekly bulletin ,http://data.gov.uk/dataset/prison_population_and_accommodation_weekly_bulletin,Crime and Justice,Performance and Delivery
+Ministry of Justice,Safety in custody,http://data.gov.uk/dataset/safety_in_custody,Crime and Justice,Performance and Delivery
+HM Inspectorate of Constabulary,Police value for money profiles,http://data.gov.uk/dataset/police-value-for-money,Crime and Justice,Performance and Delivery
+HM Inspectorate of Constabulary,The Crime and Policing Comparator data ,http://data.gov.uk/dataset/crime-and-policing-comparator-data,Crime and Justice,Performance and Delivery
+Home Office,National DNA database statistics,http://data.gov.uk/dataset/national-dna-database-quarterly-statistics,Crime and Justice,Performance and Delivery
+Ministry of Justice,Tribunal Service quarterly statistics ,http://data.gov.uk/dataset/tribunal_service_quarterly_statistics,Crime and Justice,Performance and Delivery
+Ministry of Justice,Youth justice statistics ,http://data.gov.uk/dataset/youth_justice_statistics,Crime and Justice,Performance and Delivery
+Home Office,A summary of recorded crime data from 1898 to 2001/02 ,http://www.data.gov.uk/dataset/recorded-crime-data-1898-2001-02,Crime and Justice,Performance and Delivery
+Home Office,A summary of recorded crime data from 2002/03 to 2010/11 ,http://data.gov.uk/dataset/recorded-crime-data-2002-03-2008-09,Crime and Justice,Performance and Delivery
+Ministry of Justice,Court listings,http://data.gov.uk/dataset/court-listings,Crime and Justice,Performance and Delivery
+Ministry of Justice,Royal Courts of Justice and Rolls building daily court lists,http://data.gov.uk/dataset/royal-courts-of-justice-and-rolls-building-daily-court-lists,Crime and Justice,Performance and Delivery
+Ministry of Justice,Adult sentencing outcomes,http://data.gov.uk/data/search?q=adult+sentencing+outcomes,Crime and Justice,Performance and Delivery
+Home Office,Cost of organised crime,http://data.gov.uk/dataset/costs-of-organised-crime,Crime and Justice,Performance and Delivery
+Department for Communities and Local Government,Fire Statistics Monitors,http://data.gov.uk/dataset/fire-statistics-monitors,Crime and Justice,Performance and Delivery
+Department for Communities and Local Government,Fire Incidence Response Times ,http://data.gov.uk/dataset/fire_incidents_response_times,Crime and Justice,Performance and Delivery
+"Department for Business, Innovation and Skills",Small and medium sized enterprise statistics (SME) for the UK and regions,http://data.gov.uk/dataset/small_and_medium_sized_enterprise_statistics_sme_for_the_uk_and_regions,Companies and Business Development,Performance and Delivery
+"Department for Business, Innovation and Skills",Insolvency Statistics,http://data.gov.uk/dataset/insolvency_statistics,Companies and Business Development,Performance and Delivery
+UK Commission for Employment and Skills,The UK Commission’s Employer Skills Survey,http://data.gov.uk/dataset/the-uk-commissions-employer-skills-survey,Companies and Business Development,Performance and Delivery
+Office for National Statistics,"UK Business: Activity, Size and Location",http://data.gov.uk/dataset/uk_business-activity_size_and_location,Companies and Business Development,Performance and Delivery
+Office for National Statistics,Consumer Price indices,http://data.gov.uk/dataset/consumer_price_indices,Companies and Business Development,Performance and Delivery
+Department for Transport,National Public Transport Data Repository (NPTDR),http://data.gov.uk/dataset/nptdr,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Traveline National Dataset ,http://data.gov.uk/dataset/traveline-national-dataset,Transport and Infrastructure,Performance and Delivery
+Department for Transport,National Coach Services,http://data.gov.uk/dataset/national-coach-services,Transport and Infrastructure,Performance and Delivery
+Civil Aviation Authority,Civil Aviation Authority data ,http://data.gov.uk/dataset/passenger-experience-and-service-at-airports,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Rail Timetables (National Rail) ,https://datafeeds.networkrail.co.uk/ntrod/login,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Real Time Rail Performance (Network Rail),https://datafeeds.networkrail.co.uk/ntrod/login,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Traveline National Dataset (includes real time bus performance),http://www.data.gov.uk/dataset/traveline-national-dataset ,Transport and Infrastructure,Performance and Delivery
+Department for Transport,GB Road Traffic counts,http://www.data.gov.uk/dataset/gb-road-traffic-counts,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Road Traffic and Congestion in Great Britain,http://www.data.gov.uk/dataset/road_traffic_and_congestion_in_great_britain,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Live Traffic Information from the Highways Agency Road Network,http://www.data.gov.uk/dataset/live-traffic-information-from-the-highways-agency-road-network,Transport and Infrastructure,Performance and Delivery
+Department for Transport,National Passenger Survey,http://www.data.gov.uk/dataset/national_passenger_survey,Transport and Infrastructure,Performance and Delivery
+Passenger Focus,Bus Passenger Satisfaction Survey ,http://www.data.gov.uk/dataset/bus_passenger_satisfaction_survey,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Channel Tunnel Rail Statistics,http://data.gov.uk/dataset/rsa-channel-tunnel-rail-statistics,Transport and Infrastructure,Performance and Delivery
+Department for Transport,Port Traffic Data,http://www.data.gov.uk/dataset/port-traffic-data,Transport and Infrastructure,Performance and Delivery
+Vehicle Certification Agency,Passenger car and van fuel consumption data,http://www.data.gov.uk/dataset/passenger-car-and-van-fuel-consumption-data,Transport and Infrastructure,Performance and Delivery
+Office of Communications,Mobile Phone Coverage ,http://data.gov.uk/dataset/mobile-phone-coverage,Transport and Infrastructure,Performance and Delivery
+Office of Communications,Broadband Coverage,http://data.gov.uk/dataset/broadband-coverage,Transport and Infrastructure,Performance and Delivery
+Office of Communications,Postal Service Customer Satisfaction ,http://data.gov.uk/dataset/post-residential-tracking-survey http://data.gov.uk/dataset/post-business-tracking-survey,Transport and Infrastructure,Performance and Delivery
+Met Office,3 hourly weather forecast and observational data - UK locations,http://data.gov.uk/dataset/metoffice_uklocs3hr_fc,Energy and the Environment,Performance and Delivery
+Met Office,Historical monthly data for meteorological stations,http://data.gov.uk/dataset/historic-monthly-meteorological-station-data,Energy and the Environment,Performance and Delivery
+HMG,Real time energy usage (all depts.),http://data.gov.uk/data/search?q=Real+time+energy+use,Energy and the Environment,Performance and Delivery
+Department for Communities and Local Government,"Average Energy Efficiency (SAP rating) of new homes, England and Wales ",http://data.gov.uk/dataset/average_energy_efficiency_sap_rating_of_new_homes_england_and_wales,Energy and the Environment,Performance and Delivery
+Department for Communities and Local Government,Planning Portal ,http://data.gov.uk/dataset/planning-portal,Energy and the Environment,Performance and Delivery
+Department for Communities and Local Government,Domestic Energy Performance Certificate Register  ,http://data.gov.uk/dataset/domestic-energy-performance-certificate-register,Energy and the Environment,Performance and Delivery
+Department for Communities and Local Government,Non-Domestice Energy Performance Certificate Register  ,http://data.gov.uk/dataset/non-domestic-energy-performance-certificate-register,Energy and the Environment,Performance and Delivery
+"Department for Environment, Food and Rural Affairs",Bathing water archive,http://data.gov.uk/dataset/bathing-water,Energy and the Environment,Performance and Delivery
+"Department for Environment, Food and Rural Affairs",Monitoring Determinants,http://data.gov.uk/dataset/monitoring-determinants   ,Energy and the Environment,Performance and Delivery
+"Department for Environment, Food and Rural Affairs",Regulated Pollutants   ,http://data.gov.uk/dataset/regulated-pollutants  ,Energy and the Environment,Performance and Delivery
+"Department for Environment, Food and Rural Affairs","Cereal Stocks, England and Wales",http://www.data.gov.uk/dataset/cereal_stocks_england_and_wales,Energy and the Environment,Performance and Delivery
+NHS England,GP National Patient Survey,http://data.gov.uk/dataset/gp_national_patient_survey_,Health and Social Care,Performance and Delivery
+Department of Health, National Patient Choice Survey (DH) ,http://data.gov.uk/dataset/national_patient_choice_survey,Health and Social Care,Performance and Delivery
+Department of Health,National Patient Survey (DH),http://data.gov.uk/dataset/national_patient_survey,Health and Social Care,Performance and Delivery
+NHS England,"Aggregated clinical audit information (various publishers, commissioned by HQIP)",http://data.gov.uk/data/search?q=clinical+audit,Health and Social Care,Performance and Delivery
+Department of Health,National NHS Staff Survey (DH),http://data.gov.uk/dataset/national_nhs_staff_survey,Health and Social Care,Performance and Delivery
+NHS England,A&E weekly data,http://www.data.gov.uk/dataset/ae_weekly_data_,Health and Social Care,Performance and Delivery
+NHS England,Friends and Family Test,http://www.data.gov.uk/dataset/friends_and_family_test,Health and Social Care,Performance and Delivery
+NHS England,Ambulance Quality Indicators System Indicators,http://www.data.gov.uk/dataset/ambulance_quality_indicators_system_indicators__,Health and Social Care,Performance and Delivery
+Department of Health,"Cancelled Operation, England",http://www.data.gov.uk/dataset/cancelled_operation_england,Health and Social Care,Performance and Delivery
+NHS England,Critical care bed capacity and cancelled operations: monthly situation reports,http://www.data.gov.uk/dataset/critical_care_bed_capacity_and_cancelled_operations-monthly_situation_reports_,Health and Social Care,Performance and Delivery
+NHS England,Dementia Assessment and Referral,http://www.data.gov.uk/dataset/dementia_assessment_and_referral,Health and Social Care,Performance and Delivery
+NHS England,Hospital Activity Data,http://www.data.gov.uk/dataset/hospital_activity_data__,Health and Social Care,Performance and Delivery
+Department of Health,Daily Situation Reports,http://www.data.gov.uk/dataset/daily_situation_reports,Health and Social Care,Performance and Delivery
+Department for Education,National Curriculum Assessments at Key Stage 1 in England (DfE),http://data.gov.uk/dataset/national_curriculum_assessments_at_key_stage_1_in_england,Education,Performance and Delivery
+Department for Education,National Curriculum Assessments at Key Stage 2 in England (DfE),http://data.gov.uk/dataset/national_curriculum_assessments_at_key_stage_2_in_england,Education,Performance and Delivery
+Department for Education,National Curriculum Assessments at Key Stage 3 in England (DfE),http://data.gov.uk/dataset/national_curriculum_assessments_at_key_stage_3_in_england,Education,Performance and Delivery
+Department for Education,"GCSE and Equivalent Results, England","http://data.gov.uk/dataset/gcse_and_equivalent_results_england
+",Education,Performance and Delivery
+Department for Education,A level and other level 3 results in England,http://data.gov.uk/dataset/gce-vce_a-as_and_equivalent_examination_results_england,Education,Performance and Delivery
+"Department for Business, Innovation and Skills",Higher Education Statistics for the United Kingdom,http://data.gov.uk/dataset/higher_education_statistics_for_the_united_kingdom,Education,Performance and Delivery
+Department for Education,Key Stage 2 Performance Tables in England,http://www.data.gov.uk/dataset/performance_tables_in_england_-,Education,Performance and Delivery
+Department for Education,Key Stage 4 Performance Tables in England,http://www.data.gov.uk/dataset/performance_tables_in_england_-,Education,Performance and Delivery
+Department for Education,Key Stage 5 Performance Tables in England ,http://www.data.gov.uk/dataset/performance_tables_in_england_-,Education,Performance and Delivery
+Higher Education Statistics Agency,"Higher Education Statistics: HE qualifications obtained in the UK by level, mode of study, domicile, gender, class of first degree and subject area",http://data.gov.uk/dataset/hesa-qualifications-in-uk-level-mode-of-study-domicile-gender-class-of-1st-degree-subject,Education,Performance and Delivery
+"Office for Standards in Education, Children's Services and Skills",Official Statistics: Adoption data,http://www.data.gov.uk/dataset/official-statistics-adoption-data,Education,Performance and Delivery
+"Office for Standards in Education, Children's Services and Skills",Internal Management Information: Inspection data,http://www.data.gov.uk/dataset/internal-management-information-inspection-data,Education,Performance and Delivery
+"Office for Standards in Education, Children's Services and Skills","RAISEonline school performance, absence and exclusion and census data (Ofsted)",http://www.data.gov.uk/dataset/raiseonline-school-performance-absence-and-exclusion-and-census-data,Education,Performance and Delivery
+Department for Education,Modifiable Child Deaths in England,http://data.gov.uk/dataset/modifiable-child-deaths-in-england,Social Mobility and Welfare,Performance and Delivery
+Department for Education,Outcomes for Children Looked After,http://data.gov.uk/dataset/outcomes-for-children-looked-after,Social Mobility and Welfare,Performance and Delivery
+Department for Education,Outcomes for Children in Need,http://data.gov.uk/dataset/outcomes-for-children-in-need,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,Housing market and house prices ,http://data.gov.uk/dataset/uk-housing-market-and-housing-prices,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,Median House Prices ,http://data.gov.uk/dataset/median_house_price,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,Property Prices ,http://data.gov.uk/dataset/property_prices,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,Property Transactions (Land Registry) ,http://data.gov.uk/dataset/property-transactions-land-registry,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,House Price Index ,http://data.gov.uk/dataset/england-house-price-index,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,Mean House Prices - Land Registry (Quarterly),http://data.gov.uk/dataset/mean-house-prices-land-registry-quarterly,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,Number of households on local authorities’ housing waiting lists  ,http://data.gov.uk/dataset/percentage-of-all-households-on-local-authorities-housing-waiting-lists,Social Mobility and Welfare,Performance and Delivery
+Department for Communities and Local Government,Rough Sleeping Statistics England ,http://data.gov.uk/dataset/rough_sleeping_statistics_england_,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,Social Trends ,http://data.gov.uk/dataset/social_trends,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,2011 Census ,http://data.gov.uk/dataset/2011_census_,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,Average Weekly Earnings ,http://data.gov.uk/dataset/average_weekly_earnings,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,Employment & Earnings ,http://data.gov.uk/dataset/employment-earnings,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,Regional Household Income,http://data.gov.uk/dataset/regional_household_income,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,Regional Gross Value Added,http://data.gov.uk/dataset/regional_gross_value_added_income_approach,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,Environmental Accounts,http://data.gov.uk/dataset/environmental_accounts,Energy and the Environment,Performance and Delivery
+Office for National Statistics,National Wellbeing,http://www.ons.gov.uk/ons/guide-method/user-guidance/well-being/index.html,Social Mobility and Welfare,Performance and Delivery
+Office for National Statistics,Regional Accounts,http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/regional-accounts/index.html,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Jobseekers Allowance (JSA) monthly claimant count ,http://www.data.gov.uk/dataset/jobseekers_allowance_jsa_monthly_claimant_count,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Jobseekers Allowance (JSA) claimant flows ,http://www.data.gov.uk/dataset/jobseekers_allowance_jsa_claimant_flows,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Disability Living Allowance (DLA) ,http://www.data.gov.uk/dataset/disability_living_allowance_dla,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Households Below Average Income,http://www.data.gov.uk/dataset/households_below_average_income,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,NI 116 Proportion of children in poverty ,http://www.data.gov.uk/dataset/ni_116_proportion_of_children_in_poverty,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Jobseekers Allowance (JSA) claimants by age and duration ,http://www.data.gov.uk/dataset/jobseekers_allowance_jsa_claimants_by_age_and_duration,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,New Deal for Lone Parents (NDLP) ,http://www.data.gov.uk/dataset/new_deal_for_lone_parents_ndlp,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Benefits data: summary statistics ,http://www.data.gov.uk/dataset/benefits_data_-_summary_statistics,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Housing Benefit/Council Tax Benefit Claimants at small area level ,http://www.data.gov.uk/dataset/housing_benefit-council_tax_benefit_claimants_at_small_area_level,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Jobcentre Plus Pathways to Work Official Statistics ,http://www.data.gov.uk/dataset/jobcentre_plus_pathways_to_work_official_statistics,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,New Deal for Young People (NDYP) ,http://www.data.gov.uk/dataset/new_deal_for_young_people_ndyp,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Housing Benefit & Council Tax Benefit Summary Statistics ,http://www.data.gov.uk/dataset/housing_benefit_council_tax_benefit_summary_statistics,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Benefit and Pension rates from April 2013 ,http://www.data.gov.uk/dataset/benefit-and-pension-rates-from-april-2013/feedback/view,Social Mobility and Welfare,Performance and Delivery
+Department for Work and Pensions,Universal Credit ,http://www.data.gov.uk/dataset/universal-credit/feedback/view,Social Mobility and Welfare,Performance and Delivery
+HM Passport Office,"Registration indexes of births, deaths, marriages, civil partnerships",http://data.gov.uk/dataset/registration-indexes-of-births-deaths-marriages-civil-partnerships,Society and Culture,Performance and Delivery
+HM Passport Office,"Copies of all births, deaths, marriages and civil partnerships registered in England and Wales",http://data.gov.uk/dataset/copies-of-all-births-deaths-marriages-and-civil-partnerships-registered-in-england-and-wales,Society and Culture,Performance and Delivery
+Home Office,Immigration statistics,http://data.gov.uk/dataset/immigration_statistics,Society and Culture,Performance and Delivery
+Home Office,Citizenship statistics,http://data.gov.uk/dataset/immigration-statistics-citizeship,Society and Culture,Performance and Delivery
+Office for National Statistics,National Population Projections,http://data.gov.uk/dataset/national_population_projections,Society and Culture,Performance and Delivery
+Gambling Commission,British Gambling Prevalence Survey,http://data.gov.uk/dataset/british-gambling-prevalence-surveybgps-data,Society and Culture,Performance and Delivery
+Foreign and Commonwealth Office,UK Consular assistance enquiries,http://www.data.gov.uk/dataset/uk-consular-assistance-enquiries,"Other e.g. Defence, International Relations",Performance and Delivery
+Foreign and Commonwealth Office,Consular Management Information,http://www.data.gov.uk/dataset/consular-management-information,"Other e.g. Defence, International Relations",Performance and Delivery
+HMG,Spend Reports (Spend over £25K and GPC spend),http://data.gov.uk/data/openspending-report/index,Government Accountability and Democracy,Fiscal
+HMG,Quarterly Reports,http://www.gist.cabinetoffice.gov.uk/,Government Accountability and Democracy,Fiscal
+Her Majesty's Treasury,Combined Online Information System,http://data.gov.uk/dataset/coins,Government Accountability and Democracy,Fiscal
+Her Majesty's Treasury,The Pocket Data Bank ,http://data.gov.uk/dataset/pocketdatabank,Government Accountability and Democracy,Fiscal
+Her Majesty's Treasury,Private Finance Initiative Data ,http://data.gov.uk/dataset/private-finance-initiative-pfi-data,Government Accountability and Democracy,Fiscal
+Her Majesty's Treasury,Online System for Central Accounting and Reporting – OSCAR ,http://data.gov.uk/dataset/oscar,Government Accountability and Democracy,Fiscal
+Cabinet Office,Government Construction Pipeline ,http://data.gov.uk/dataset/government-construction-pipeline,Government Accountability and Democracy,Fiscal
+Cabinet Office,Grants Register ,http://data.gov.uk/dataset/grants-register,Government Accountability and Democracy,Fiscal
+Her Majesty's Treasury,Use of European Union Funds , http://data.gov.uk/dataset/use-of-european-union-funds,Government Accountability and Democracy,Fiscal
+Cabinet Office,UK Central Government Procurement Spend ,http://data.gov.uk/dataset/public-sector-procurement-spend,Government Accountability and Democracy,Fiscal
+Cabinet Office,"Listing of publishable central government tender documentation for tenders over £10,000 ",http://data.gov.uk/dataset/uk-transparency-in-procurement-tender-documents,Government Accountability and Democracy,Fiscal
+Cabinet Office,Spend Analytics Data ,http://data.gov.uk/dataset/spend-analytics-data,Government Accountability and Democracy,Fiscal
+Cabinet Office,Government Cloud Store Catalogue ,http://data.gov.uk/dataset/cloudstore_catalogue_version,Government Accountability and Democracy,Fiscal
+Cabinet Office,Aggregate spend with individual suppliers via GPS frameworks ,http://data.gov.uk/dataset/aggregate-spend-with-individual-suppliers-via-gps-frameworks,Government Accountability and Democracy,Fiscal
+Cabinet Office,Govt construction strategy elemental cost data ,http://data.gov.uk/dataset/govt-construction-strategy-elemental-cost-data,Government Accountability and Democracy,Fiscal
+Cabinet Office,Listing of potential government procurement opportunities by industry sector ,http://data.gov.uk/dataset/listing-of-potential-government-procurement-opportunities-by-industry-sector,Government Accountability and Democracy,Fiscal
+Cabinet Office,GPS ‘Active’ Suppliers ,http://data.gov.uk/dataset/gps-active-suppliers,Government Accountability and Democracy,Fiscal
+Department for International Development,IATI reporting of ODA spend,http://www.data.gov.uk/dataset/info-dfid-aid-projects,Global Development,Fiscal
+"Department for Business, Innovation and Skills",Building Price and Cost Indices,http://data.gov.uk/dataset/building_price_and_cost_indices,Companies and Business Development,Fiscal
+"Department for Business, Innovation and Skills",Vat registered businesses,http://data.gov.uk/dataset/vat_registered_businesses,Companies and Business Development,Fiscal
+"Department for Business, Innovation and Skills",Import licence applications,http://data.gov.uk/dataset/import-licence-applications,Companies and Business Development,Fiscal
+High Speed 2,High Speed 2 Route ,http://www.data.gov.uk/dataset/hs2-gis-route,Transport and Infrastructure,Fiscal
+"Department for Business, Innovation and Skills",Allocation of Science and research Funding 2011/12 to 2014/15 ,http://www.data.gov.uk/dataset/allocation-of-science-and-research-funding-2011-12-to-2014-15,Science and Research,Fiscal
+NHS England,2013/14 revenue allocations to CCGs ,http://www.england.nhs.uk/wp-content/uploads/2012/12/ccg-allocations-13-141.pdf,Health and Social Care,Fiscal
+Department of Health,NHS Local Spending Data - Primary Care Trusts (up to March 2013),http://data.gov.uk/dataset/nhs-england-primary-care-trusts-local-spending-data,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,GP practice prescribing data - Presentation level,http://data.gov.uk/dataset/prescribing-by-gp-practice-presentation-level,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,"Hospital Prescribing, England ",http://data.gov.uk/dataset/hospital_prescribing_england,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,Primary Care Trust Prescribing Data (up to March 2013),http://data.gov.uk/dataset/primary_care_trust_prescribing_data,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,NHS Staff Earnings,http://data.gov.uk/dataset/nhs_staff_earnings,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,Dental Earnings and Expenses,http://data.gov.uk/dataset/dental_earnings_and_expenses,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,GP Earnings and Expenses,http://data.gov.uk/dataset/gp_earnings_and_expenses,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,Finalised Patient Reported Outcome Measures (PROMs) in England,http://data.gov.uk/dataset/finalised_patient_reported_outcome_measures_proms_in_england,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,Provisional Monthly Patient Reported Outcome Measures (PROMs) in England,http://data.gov.uk/dataset/provisional_monthly_patient_reported_outcome_measures_proms_in_england,Health and Social Care,Fiscal
+NHS Information Centre for Health and Social Care,The Casemix Service - classifications that are used by the English NHS to describe healthcare activity,http://data.gov.uk/dataset/the-casemix-service-classifications-that-are-used-by-the-english-nhs-to-describe-healthcare-activi,Health and Social Care,Fiscal
+Cabinet Office,Social Action Fund grant recipients 2011 - 2013,http://data.gov.uk/dataset/social-action-fund-grant-recipients-2011-2013,Social Mobility and Welfare,Fiscal
+Arts Council England,Arts Council National Portfolio Awards,http://www.data.gov.uk/dataset/arts-council-national-portfolio-organisations-awards,Society and Culture,Fiscal
+"Department for Culture, Media and Sport",DCMS Lottery Grants Database,http://www.data.gov.uk/dataset/dcms-lottery-grants-database,Society and Culture,Fiscal
+Arts Council England,Grants for the Arts Awards,http://www.data.gov.uk/dataset/grants-for-the-arts-awards-arts-council-england,Society and Culture,Fiscal
+Cabinet Office,Departmental Organograms,http://data.gov.uk/organogram,Government Accountability and Democracy,Operational
+The National Archives,UK Legislation,http://www.data.gov.uk/dataset/uk-legislation,Government Accountability and Democracy,Operational
+The National Archives,Legislation API,http://data.gov.uk/dataset/legislation-api,Government Accountability and Democracy,Operational
+The National Archives,Legislation SPARQL API,http://data.gov.uk/dataset/legislation-sparql-api,Government Accountability and Democracy,Operational
+Cabinet Office,List of .gov.uk domain names ,http://data.gov.uk/dataset/list-of-gov-uk-domain-names,Government Accountability and Democracy,Operational
+Cabinet Office,Special Advisors working in the UK Government ,http://data.gov.uk/dataset/special-advisers,Government Accountability and Democracy,Operational
+Cabinet Office,Special Advisers Number and Costs ,http://data.gov.uk/dataset/special-advisers-list,Government Accountability and Democracy,Operational
+Cabinet Office,Public Bodies 2012 ,http://data.gov.uk/dataset/public-bodies-2012,Government Accountability and Democracy,Operational
+Cabinet Office,Open Central Government websites ,http://data.gov.uk/dataset/open_central_government_websites,Government Accountability and Democracy,Operational
+Cabinet Office,Public roles and salaries ,http://data.gov.uk/dataset/public-roles-and-salaries,Government Accountability and Democracy,Operational
+Cabinet Office,Senior Salaries,http://data.gov.uk/organogram,Government Accountability and Democracy,Operational
+Home Office,Police powers and procedures ,http://data.gov.uk/dataset/police-powers-procedures-england-wales,Crime and Justice,Operational
+Home Office,"Operation of Police Powers under the Terrorism Act 2000: arrests, outcomes and stops & searches",http://data.gov.uk/dataset/operation_of_police_powers_under_the_terrorism_act_2000-arrests_outcomes_and_stops_searches,Crime and Justice,Operational
+Home Office,Stolen vehicle data,http://www.data.gov.uk/dataset/stolen-vehicle-data,Crime and Justice,Operational
+Home Office,"Police workforce, England and Wales (by Police Force)",http://data.gov.uk/dataset/safety_in_custody,Crime and Justice,Operational
+Home Office,"Police workforce, England and Wales (by Basic Command Unit)",http://data.gov.uk/dataset/police-strength-data-2010-basic-command-unit,Crime and Justice,Operational
+Companies House,Basic Company Data,http://data.gov.uk/dataset/basic-company-data,Companies and Business Development,Operational
+Companies House,Disqualified Directors Dataset,http://data.gov.uk/dataset/disqualified-directors-dataset,Companies and Business Development,Operational
+Companies House,Company identifiers (URIs),http://data.gov.uk/dataset/company-identifiers-uris,Companies and Business Development,Operational
+Skills Funding Agency,Apprenticeships Vacancies in England,http://www.data.gov.uk/dataset/apprenticeship-vacancies,Companies and Business Development,Operational
+Driver and Vehicle Licensing Agency,DVLA bulk vehicle data,http://data.gov.uk/dataset/bulk-data,Transport and Infrastructure,Operational
+Vehicle and Operator Services Agency,MOT historic data ,http://data.gov.uk/dataset/extended-mot-data,Transport and Infrastructure,Operational
+National Measurement Office,Restrictions of Hazardous Substance [RoHS] Tracker database,http://data.gov.uk/dataset/restrictions-of-hazardous-substance-rohs-tracker-database,Energy and the Environment,Operational
+NHS England,National Library Medicine Catalogue (pathology reference data),http://www.connectingforhealth.nhs.uk/systemsandservices/pathology/projects/nlmc,Health and Social Care,Operational
+NHS Information Centre for Health and Social Care,Data linkage and extraction service ,http://www.hscic.gov.uk/dles,Health and Social Care,Operational
+NHS England,Clinical practice research datalink,http://www.cprd.com/intro.asp,Health and Social Care,Operational
+NHS Information Centre for Health and Social Care,Aggregated Hospital Episode Statistics ,http://data.gov.uk/data/search?q=%22Hospital+Episode+Statistics%22,Health and Social Care,Operational
+National Institute for Health and Clinical Excellence (NICE),Clinical guidelines,http://www.nice.org.uk/Guidance/CG/Published,Health and Social Care,Operational
+National Institute for Health and Clinical Excellence (NICE),Technology appraisals,http://guidance.nice.org.uk/TA/Published,Health and Social Care,Operational
+Department for Education,School Census,http://data.gov.uk/dataset/school-census,Education,Operational
+"Department for Business, Innovation and Skills",Privately-funded providers of higher education (HE),http://data.gov.uk/dataset/privately-funded-providers-of-higher-education-he,Education,Operational
+Department for Education,National Pupil Database,http://data.gov.uk/dataset/national-pupil-database,Education,Operational
+Department for Communities and Local Government,Local Authority Council Base for England,http://data.gov.uk/dataset/england-local-authority-council-tax-base-england,Social Mobility and Welfare,Operational
+Foreign and Commonwealth Office,Treaties Database,http://data.gov.uk/dataset/treaties-database,"Other e.g. Defence, International Relations",Operational
