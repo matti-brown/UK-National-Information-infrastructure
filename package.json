@@ -1,21 +1,29 @@
 {
   "name": "uk-national-information-structure",
   "version": "0.0.1",
-  "description": "Does what it says on the tin",
+  "description": "Library to convert .csv describing data.gov.uk datasets to JSON.",
   "contributors": [ 
     {
       "name": "Gianfranco Cecconi",
       "email": "gianfranco.cecconi@digitalcontraptionsimaginarium.co.uk"
     },
     {
-      "name": "Matti Brown",
-      "email": "unknown"
+      "name": "Matthew Brown",
+      "email": "matthew.brown@cabinet-office.gsi.gov.uk"
     } 
   ],
+  "homepage": "https://github.com/matti-brown/UK-National-Information-infrastructure",
+  "repository": { 
+    "type": "git", 
+    "url": "git://github.com/matti-brown/UK-National-Information-infrastructure.git"
+  },
+  "bugs": { 
+    "url": "https://github.com/matti-brown/UK-National-Information-infrastructure/issues" 
+  },
   "keywords": [
-    "UK", 
-    "ODI", "Open Data Institute",
-    "Open Data"
+    "UK", "Cabinet Office", "Government", "data.gov.uk",
+    "Open Data", "Open Government", 
+    "ODI", "Open Data Institute", "Open data deployment star rating", "Open Data Certificate"
   ],
   "dependencies" : {
     "async": ">=0.2.9",
